@@ -39,6 +39,7 @@ public class ElasticSearchController {
      */
     @RequestMapping("createIndexTest")
     public void createIndexTest() throws Exception{
+        System.out.println("");
         // 1. 创建索引请求
         CreateIndexRequest firstIndex = new CreateIndexRequest("test_one");
         // 2. 客户端执行创建索引的请求
