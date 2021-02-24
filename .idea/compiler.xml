@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringBoot01" />
+        <module name="java框架-Spring5" />
+        <module name="javaWeb" />
+        <module name="ssm-test" />
+        <module name="Java基础" />
+        <module name="java框架-Mybatis" />
+        <module name="java框架-SpringMVC" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="javaWeb" target="1.5" />
+      <module name="Java基础" target="1.8" />
+      <module name="java框架-Mybatis" target="1.5" />
+      <module name="java框架-Spring5" target="1.5" />
+      <module name="java框架-SpringMVC" target="1.5" />
+      <module name="SpringBoot01" target="1.8" />
+      <module name="ssm-test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBoot01" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+# Project exclude paths
+/javaWeb/target/
+/Java基础/target/
+/java框架-Mybatis/target/
+/java框架-Spring5/target/
+/java框架-SpringMVC/target/
+/SpringBoot01/target/
+/ssm-test/target/

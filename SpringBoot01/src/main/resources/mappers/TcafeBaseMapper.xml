@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.sw.mappers.TcafeBaseMapper">
+
+    <select id="queryTcafeBaseById" resultType="TcafeBase">
+        select  iCode id ,sCafeID,sNbname,sAddress,sLegalUser,sLegalTel from tcafebase where iCode = #{id}
+    </select>
+
+</mapper>

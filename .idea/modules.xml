@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java基础/Java基础.iml" filepath="$PROJECT_DIR$/Java基础/Java基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot01/SpringBoot01.iml" filepath="$PROJECT_DIR$/SpringBoot01/SpringBoot01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWeb/javaWeb.iml" filepath="$PROJECT_DIR$/javaWeb/javaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java框架-Mybatis/java框架-Mybatis.iml" filepath="$PROJECT_DIR$/java框架-Mybatis/java框架-Mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java框架-Spring5/java框架-Spring5.iml" filepath="$PROJECT_DIR$/java框架-Spring5/java框架-Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java框架-SpringMVC/java框架-SpringMVC.iml" filepath="$PROJECT_DIR$/java框架-SpringMVC/java框架-SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-test/ssm-test.iml" filepath="$PROJECT_DIR$/ssm-test/ssm-test.iml" />
+    </modules>
+  </component>
+</project>
